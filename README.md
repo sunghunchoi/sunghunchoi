@@ -1,6 +1,3 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
-
 <!--
 **sunghunchoi/sunghunchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=choi%20sunghun&fontSize=90)
+
+
+
+
+
+
+
