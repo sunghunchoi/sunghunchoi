@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=choi%20sunghun&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunghunchoi&show_icons=true&theme=radical)
 
 <h3 align="center"> 🌈Tech Stack🌈</h3>
 <p align="center">
